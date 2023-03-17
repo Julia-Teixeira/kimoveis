@@ -1,0 +1,7 @@
+import Address from "./addresses.entity";
+import Category from "./categories.entity";
+import RealEstate from "./realEstate.entity";
+import Schedule from "./schedules.entity";
+import User from "./user.entity";
+
+export { Address, RealEstate, Category, User, Schedule };
